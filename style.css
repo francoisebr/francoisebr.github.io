@@ -104,20 +104,20 @@ td img { margin:auto;
 
 #title-site {
     background-color: white;
-    font-size: 30px;
+    font-size: 14px;
     font-weight: 500;
     color: #555555;
-    letter-spacing: 0px; 
+    letter-spacing: 3px; 
     text-align: center;
     font-family: 'Open Sans', sans-serif
 }
 
 #subtitle-site {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 100;
     color: #555555;
     /*letter-spacing: 8px;*/
-    line-height: 50px;
+    line-height: 20px;
     text-align: center;
     font-family: 'Kaushan Script';
 }
@@ -336,6 +336,13 @@ ul li a:hover {
 
 
 /*********** Images ***********/
+
+.logo {
+    height: 120px;
+    box-shadow: 0px 0px 0px 0px #D6D6D6;
+    -moz-box-shadow: 0px 0px 0px 0px #D6D6D6;
+    -webkit-box-shadow: 0px 0px 0px 0px #D6D6D6;
+}
 
 .pic-portfolio {
      position: relative;
